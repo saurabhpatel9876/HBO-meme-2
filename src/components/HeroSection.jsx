@@ -24,10 +24,17 @@ const HeroSection = () => {
 
 Who is the Honorable Bitcoin Overlord? Who will HBO unveil as the grand master... satoshi?
 FIND OUT..... BUY $HBO, WE WILL BE RUNNING POLLS AND VIBING.
+
+<br/>
+<p className=" font-bold">
+Buy $HBO, vibe with us, and stay tuned. The Overlord awaits… FIND OUT SOON.
+
+
+</p>
       </p>
 <span>
   <p className="text-2xl m-3 p-2">
-    CA- 6bDbbx8ptD7WSV6b21PQcoDtPguHYptmYLs81v9rmSnD
+    CA- 74coxz5yvcu6XgSBbieNLXML2CD5UeZvjEtgD72Mpump
   </p>
 </span>
       

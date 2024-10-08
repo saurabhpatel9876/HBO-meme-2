@@ -44,7 +44,7 @@ const Header = () => {
           <Link className="font-extrabold text-2xl block text-black mb-2 hover:bg-gray-600 hover:text-white rounded-xl p-1 " href="/About">
             About HBO
           </Link>
-          <Link className="font-extrabold text-2xl block text-black mb-2 hover:bg-gray-600 hover:text-white rounded-xl p-1" href="/BoberMore">
+          <Link className="font-extrabold text-2xl block text-black mb-2 hover:bg-gray-600 hover:text-white rounded-xl p-1" href="/HBOMore">
             More about HBO
           </Link>
           {/* <Link className="text-black hover:bg-gray-600 hover:text-white rounded-xl p-1" href="/">
@@ -71,7 +71,7 @@ const Header = () => {
             <Link  className=" block text-white mb-2 hover:bg-gray-600 hover:text-white rounded-xl p-1 font-extrabold text-2xl" href="/About">
               About HBO
             </Link>
-            <Link className="block text-white mb-2 hover:bg-gray-600 hover:text-white rounded-xl p-1 font-extrabold text-2xl" href="/BoberMore">
+            <Link className="block text-white mb-2 hover:bg-gray-600 hover:text-white rounded-xl p-1 font-extrabold text-2xl" href="/HBOMore">
             More about HBO
             </Link>
             {/* <Link className="block text-white hover:bg-gray-600 hover:text-white rounded-xl p-1 font-extrabold text-2xl" href="/">
