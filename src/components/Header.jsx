@@ -19,7 +19,7 @@ const Header = () => {
         <Link className="text-black text-lg font-bold" href="/">
         {/* <img className="h-10 w-10 mr-2" src={logo} alt="Logo" /> */}
         <Image
-        className="m-6"
+        className="m-6 rounded-full"
       src={logo}
       alt="Picture of the author"
       width={200}
